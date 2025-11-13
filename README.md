@@ -31,4 +31,4 @@ Images will be saved in the `cards/` directory with their original filenames.
 - requests
 - beautifulsoup4
 
-## [GitHub Repository](<repo-link-here>)
+## [GitHub Repository](https://github.com/citronlegacy/pokellector_card_downloader)
